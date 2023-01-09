@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "plan": "Plan Básico",
+        "precio": "$30",
+        "beneficioUno": "✔ Acceso ilimitado al gimnasio",
+        "beneficioDos": "✔ 1 deporte a elección",
+        "beneficioTres": "✔ Consultas gratis",
+        "beneficioCuatro": "✔ Wifi gratis",
+        "beneficioCinco": "✔ 20% de descuento en bebidas" 
+    },
+    {
+        "id": "2",
+        "plan": "Plan Mediano",
+        "precio": "$60",
+        "beneficioUno": "✔ Acceso ilimitado al gimnasio",
+        "beneficioDos": "✔ 2 deportes a elección",
+        "beneficioTres": "✔ Consultas gratis",
+        "beneficioCuatro": "✔ Wifi gratis",
+        "beneficioCinco": "✔ 50% de descuento en bebidas",
+        "beneficioSeis": "✔ Personal Trainer"  
+    },
+    {
+        "id": "3",
+        "plan": "Plan Premium",
+        "precio": "$90",
+        "beneficioUno": "✔ Acceso ilimitado al gimnasio",
+        "beneficioDos": "✔ Todos lo deportes que quieras",
+        "beneficioTres": "✔ Consultas gratis",
+        "beneficioCuatro": "✔ Wifi gratis",
+        "beneficioCinco": "✔ 60% de descuento en bebidas",
+        "beneficioSeis": "✔ Personal Trainer",
+        "beneficioSiete": "✔ Ropa y accesorios gratis"
+    }
+]
